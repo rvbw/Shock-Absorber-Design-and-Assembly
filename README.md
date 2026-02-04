@@ -1,6 +1,6 @@
 # Shock Absorber Design and Assembly
 
-![Shock Absorber Assembly](images/assembly.png)
+![Shock Absorber Assembly](images/Shock absorber.png)
 
 ## 📌 Overview
 This project presents the **design and mechanical assembly of a shock absorber system**.  
